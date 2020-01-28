@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+//import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -16,8 +16,8 @@ import com.mail.emailservice.model.Mail;
 import com.mail.emailservice.service.MailService;
 
 @SpringBootApplication
-@EnableDiscoveryClient
-@ComponentScan
+//@EnableDiscoveryClient
+//@ComponentScan
 public class EmailServiceApplication {
 
 	public static void main(String[] args) {

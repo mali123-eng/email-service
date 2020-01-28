@@ -3,15 +3,15 @@ package com.mail.emailservice.model;
 import java.util.Date;
 import java.util.List;
 
-import lombok.AllArgsConstructor;
+/*import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.ToString;
-
-@Data
+*/
+/*@Data
 @AllArgsConstructor
 @NoArgsConstructor
-@ToString
+@ToString*/
 public class Mail {
 
 	private String mailFrom;
