@@ -3,7 +3,6 @@ package com.mail.emailservice.model;
 import java.util.Date;
 import java.util.List;
 
-
 public class Mail {
 
 	private String mailFrom;
