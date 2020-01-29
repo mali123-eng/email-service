@@ -14,8 +14,12 @@
 	cd public-service
 	```
 
+2. **Change EmailId and password **
 
-2. **Run the app**
+	+ open `src/main/resources/application.properties` file.
+
+	+ change `spring.mail.username` and `spring.mail.password` properties 
+3. **Run the app**
 
 	You can run the spring boot app by typing the following command -
 
