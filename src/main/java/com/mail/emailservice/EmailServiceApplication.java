@@ -16,8 +16,7 @@ import com.mail.emailservice.model.Mail;
 import com.mail.emailservice.service.MailService;
 
 @SpringBootApplication
-//@EnableDiscoveryClient
-//@ComponentScan
+
 public class EmailServiceApplication {
 
 	public static void main(String[] args) {
