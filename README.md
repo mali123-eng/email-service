@@ -23,7 +23,7 @@
 	mvn spring-boot:run
 	```
 
-	The server will start on port 8082.
+	The server will start on port 9090.
 
 	You can also package the application in the form of a `jar` file and then run it like so -
 
